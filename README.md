@@ -1,6 +1,19 @@
 # django_basic_concepts
 Learning Django python basic concpets
-
+1- Install Django
+2- Access the admin panel
+3- Create users and groups
+4- Assign roles to either groups or users
+5- Create separate apps e.g accounts
+6- Create views
+7- Define URL patterns
+8- Create Models
+9- Write decorators
+10-Use Decorators for example to restrict the acccess 
+    -on particular view
+    -on specific buttons etc
+    
+**Installation Guide**
 #install django
 pip install django
 
